@@ -78,7 +78,7 @@ kramdown:
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "现在难受<br>不要想了"
+sidebar-about-description: "就这哇"
 sidebar-avatar: /img/avatar-kaier.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -104,6 +104,6 @@ page-mathjax: false
 friends: [
     {
         title: "Donche",
-        href: "http://donche.github.io/nothing"
+        href: "https://donche.github.io/"
     }
 ]
